@@ -1,4 +1,4 @@
-# EEM Script for Energy reduction on Cisco Catalyst Series Switches
+# EEM Script to disable PoE on Cisco Catalyst Series Switches based on Interface description
 ---
 
 Building and managing Cisco SD-Access fabric doesn't have to be challenging or complex! You just need to use the right approach and toolset. Terraform is an open-source infrastructure as code software tool created by HashiCorp. The dnacenter Terraform provider leverages the Cisco DNA Center APIs for managing and automating your Cisco DNA Center environment. This will reduce the overall time to create, change and delete fabric sites while delivering consistent outcomes of each fabric configuration step. This session will demonstrate step-by-step how to deploy a Cisco SD-Access fabric from scratch using Terraform together with Cisco DNA Center.
