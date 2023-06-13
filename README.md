@@ -108,3 +108,5 @@ Both scripts can be deployed to your network with the help of Cisco DNA Center a
 
 ## Issues/Comments
 Please post any issues or comments directly on GitHub.
+
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/pamosima/powersave)
